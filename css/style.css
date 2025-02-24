@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+#headerTitle {
+    text-align: center;
+    padding: 2em 0;
+    background-color: #709bc7;
+    color: white;
+}
+#mainContents {
+    padding: 2em;
+    background-color: azure;
+}
+#footerContent {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #2c455e;
+    color: white;
+}
+.navbar {
+    background-color: #709bc7;
+}
+.navbar .nav-link {
+    color: white;
+}
+.navbar .nav-link:hover {
+    color: #2c455e;
+}
